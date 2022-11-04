@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+F:\Student\5.3\5.3.cpp(10,13): warning C4101: 'x': unreferenced local variable
+F:\Student\5.3\UnitTest2\UnitTest2.cpp(15,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Student\5.3\5.3.cpp(58): warning C4715: 'f': not all control paths return a value
+     Creating library F:\Student\5.3\x64\Debug\UnitTest2.lib and object F:\Student\5.3\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> F:\Student\5.3\x64\Debug\UnitTest2.dll
